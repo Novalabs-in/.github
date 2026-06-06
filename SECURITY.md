@@ -20,7 +20,7 @@ We actively support and patch the latest major version of all production reposit
 **Please do not open public GitHub issues for security vulnerabilities.**
 
 To report a vulnerability:
-1. Send an email to **`security@novalabs.in`**.
+1. Send an email to **`security@www.saitejabandaru.com`**.
 2. If possible, include:
    - The name of the affected repository.
    - A detailed description of the vulnerability and its potential impact.
