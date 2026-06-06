@@ -7,7 +7,7 @@ Following these guidelines helps us process contributions quickly and efficientl
 ---
 
 ## 📜 Code of Conduct
-By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please report any violations or inappropriate behavior to `security@novalabs.in`.
+By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please report any violations or inappropriate behavior to `security@www.saitejabandaru.com`.
 
 ---
 
