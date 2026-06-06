@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://novalabs.in"><img src="https://img.shields.io/badge/Website-novalabs.in-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://github.com/novalabs-in"><img src="https://img.shields.io/badge/GitHub-Organization-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.saitejabandaru.com"><img src="https://img.shields.io/badge/Website-saitejabandaru.com-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/Novalabs-in"><img src="https://img.shields.io/badge/GitHub-Organization-black?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Open%20Source-First-black?style=for-the-badge&logo=opensourceinitiative&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Community-Driven-black?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
@@ -140,7 +140,7 @@ We’re building a space where contributors become collaborators.
 ---
 
 ## 🧭 Community & Updates
-📌 **GitHub Org:** https://github.com/novalabs-in  
+📌 **GitHub Org:** https://github.com/Novalabs-in  
 
 ---
 
