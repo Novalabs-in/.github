@@ -13,7 +13,7 @@ Please review the guidelines below to choose the best support channel for your q
 | **Documentation** | First place to look for guides, setup, and FAQs. | Check the `README.md` of each individual repository. |
 | **GitHub Discussions** | General questions, configuration issues, design ideas, and community chat. | [Novalabs-in Discussions](https://github.com/orgs/Novalabs-in/discussions) |
 | **GitHub Issues** | Reporting reproducible bugs or proposing concrete feature enhancements. | Create an issue in the specific project repository using our forms. |
-| **Security Reports** | Reporting security vulnerabilities privately. | Email `security@novalabs.in` (see our [Security Policy](SECURITY.md)). |
+| **Security Reports** | Reporting security vulnerabilities privately. | Email `security@www.saitejabandaru.com` (see our [Security Policy](SECURITY.md)). |
 
 ---
 
