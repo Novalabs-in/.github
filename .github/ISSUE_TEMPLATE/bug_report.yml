@@ -1,0 +1,83 @@
+name: "🐛 Bug Report"
+description: File a structured report to help us reproduce, identify, and resolve bugs in the codebase.
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### Thanks for reporting this issue!
+        Before submitting, please search existing issues to see if this has already been reported.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of the package or tool are you using?
+      placeholder: e.g. v1.2.3, main branch commit hash
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Operating System / Environment
+      description: Which operating system or environment are you running on?
+      options:
+        - macOS (Apple Silicon / Intel)
+        - Linux (Ubuntu, Debian, Fedora, etc.)
+        - Windows (10, 11, WSL)
+        - Docker Container
+        - Other (specify in description)
+    validations:
+      required: true
+  - type: dropdown
+    id: runtime
+    attributes:
+      label: Runtime / Language Version
+      description: Which language version/runtime are you using?
+      options:
+        - Python 3.12+
+        - Python 3.10 / 3.11
+        - Node.js 20+
+        - Node.js 18
+        - Go 1.22+
+        - Other (specify in description)
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the Bug
+      description: A clear and concise description of what the bug is, what actually happened, and what you expected to happen.
+      placeholder: Describe your issue here...
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: |
+        Please provide a minimal, complete, and verifiable example (reproduction code script, CLI commands, or logs) that demonstrates the issue.
+      placeholder: |
+        1. Run command '...'
+        2. Execute script '...'
+        3. See error '...'
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant Log Output
+      description: If applicable, please paste any relevant error logs or terminal outputs.
+      render: shell
+  - type: checkboxes
+    id: checklists
+    attributes:
+      label: Self-Check Checklist
+      description: Before submitting, please verify that you have completed the following steps.
+      options:
+        - label: I have checked the existing issues and couldn't find a duplicate.
+          required: true
+        - label: I have verified that this issue occurs on the latest version/branch.
+          required: true
+        - label: I have provided a complete and self-contained reproduction block or set of instructions.
+          required: true
