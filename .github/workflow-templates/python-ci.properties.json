@@ -1,0 +1,9 @@
+{
+  "name": "NovaLabs Python CI/CD",
+  "description": "Standardized continuous integration workflow for testing Python projects under NovaLabs.in.",
+  "iconName": "python",
+  "categories": [
+    "Python",
+    "CI"
+  ]
+}
